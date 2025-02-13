@@ -1,4 +1,4 @@
-# 🍰 Cake App - React + Vite
+# Cake App - React + Vite
 
 ## Features
 - **Home Page**: List of cakes with images and titles.
